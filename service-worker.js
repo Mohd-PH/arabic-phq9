@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/<arabic-phq9-vue>/precache-manifest.05ef0a0c668367f9cc9d1aecd0d35053.js"
+  "/arabic-phq9-vue/precache-manifest.b414f000b15788c7230a06445ef5e958.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "arabic-phq9-vue"});
