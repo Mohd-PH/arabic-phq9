@@ -3,6 +3,10 @@
     <nav class="navbar fixed-top navbar-light bg-light">
       <a class="navbar-brand" href="#">إستبيان حول صحة المريض 9</a>
     </nav>
+    <div class="alert alert-success" role="alert">
+      <h4 class="alert-heading">تنبيه!</h4>
+      <p>هذا الإستبيان لا يجمع البيانات، لا تنسى مشاركة نتيجتك مع الطبيب المعالج</p>
+    </div>
     <h3>
       كم مرة عانيت من الأعراض التالية خلال
       <u>الأسبوعين الماضية</u>
