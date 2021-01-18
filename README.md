@@ -1,6 +1,6 @@
 # arabic-phq9-vue
 
-##إستبيان صحة المريض-9
+<h2 dir="rtl">إستبيان صحة المريض-9</h2>
 
-إستبيان صحة المريض-9 مبني بـ VueJS 
-لإستخدام الإستبيان الدخول على [الرابط](https://mohd-ph.github.io/arabic-phq9-vue)
+<p dir="rtl">إستبيان صحة المريض-9 مبني بـ VueJS 
+لإستخدام الإستبيان الدخول على [الرابط](https://mohd-ph.github.io/arabic-phq9-vue)</p>
