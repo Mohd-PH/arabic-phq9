@@ -1,29 +1,6 @@
 # arabic-phq9-vue
 
-## Project setup
-```
-npm install
-```
+##إستبيان صحة المريض-9
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+إستبيان صحة المريض-9 مبني بـ VueJS 
+لإستخدام الإستبيان الدخول على [الرابط](https://mohd-ph.github.io/arabic-phq9-vue)
